@@ -5,7 +5,7 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🔭 I’m currently working project on **Online bookstore management system**
+- 🔭 I’m currently working project on **Agent Finder and Appointment System**
 
 - 📝 I’m undergraduate at **SLIIT University**
   
